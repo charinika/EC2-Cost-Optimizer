@@ -44,11 +44,6 @@ EventBridge → Lambda → CloudWatch → EC2 → SNS → Email
 
 ---
 
-## 📧 Sample Output
-
-<img width="1919" height="971" alt="Screenshot 2026-04-09 161722" src="https://github.com/user-attachments/assets/89513b5f-9a3a-4f20-b044-7f001f3598d8" />
-
-
 ## 📸 Screenshots
 
 ### 🔹 Lambda Function
