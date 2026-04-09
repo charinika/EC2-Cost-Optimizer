@@ -47,7 +47,6 @@ EventBridge → Lambda → CloudWatch → EC2 → SNS → Email
 ## 📧 Sample Output
 
 <img width="1919" height="971" alt="Screenshot 2026-04-09 161722" src="https://github.com/user-attachments/assets/89513b5f-9a3a-4f20-b044-7f001f3598d8" />
-<img width="1806" height="484" alt="Screenshot 2026-04-09 161228" src="https://github.com/user-attachments/assets/968526a8-7b9b-4fd7-80c6-797662449d1a" />
 
 
 ## 📸 Screenshots
@@ -55,7 +54,6 @@ EventBridge → Lambda → CloudWatch → EC2 → SNS → Email
 ### 🔹 Lambda Function
 
 <img width="1919" height="971" alt="Screenshot 2026-04-09 161722" src="https://github.com/user-attachments/assets/4655e4e8-9907-43b5-80d2-5b97f90c9a2f" />
-<img width="1806" height="484" alt="Screenshot 2026-04-09 161228" src="https://github.com/user-attachments/assets/ce582998-99ac-4819-9f1a-a03918ca3736" />
 
 ### 🔹 EventBridge Trigger
 
@@ -67,7 +65,6 @@ EventBridge → Lambda → CloudWatch → EC2 → SNS → Email
 
 ### 🔹 EC2 Before & After
 
-<img width="1806" height="484" alt="Screenshot 2026-04-09 161228" src="https://github.com/user-attachments/assets/94f70486-1949-432e-917c-cba295aa93e5" />
 <img width="1667" height="411" alt="Screenshot 2026-04-09 154748" src="https://github.com/user-attachments/assets/dfa2e2a2-1bb7-4d09-91da-eabe34c96234" />
 
 <img width="1919" height="654" alt="Screenshot 2026-04-09 161327" src="https://github.com/user-attachments/assets/ea4fed56-45c2-470e-a89c-131028305938" />
